@@ -19,7 +19,7 @@ This repository is only used for publishing this game production updates and pro
 
 ## When will FeeaSim be released? And Release Verison?
 
-We will release the first Preview in the next 3-5 months (only for test. If there are some **issues**, [press here to feedback](https://github.com/Jansuoh/FeeaSim/issues/new)[(Read the Lable Choose Rule)](https://github.com/Jansuoh/FeeaSim/blob/main/RULE_ISSUES.md) or message at our account in other website. For the Release Verison, in the fastes t produciton progress, it will be released in 1 Year. Mabe choose to release it on Steam or Itch([Itch.io](http://itch.io)).
+We will release the first Preview in the next 3-5 months (only for test. If you want to ask some question about **FeeaSim**, [press here to ask](https://github.com/Jansuoh/FeeaSim/issues/new) [(Read the Lable Choose Rule)](https://github.com/Jansuoh/FeeaSim/blob/main/RULE_ISSUES.md) or message at our account in other website. For the Release Verison, in the fastes t produciton progress, it will be released in 1 Year. Mabe choose to release it on Steam or Itch([Itch.io](http://itch.io)).
 
 ## About FeeaSim Release Order
 
