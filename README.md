@@ -8,8 +8,8 @@ This repository is only used for publishing this game production updates and pro
 
 **Language 语言 語言**
   
-- [简体中文](https://github.com/Heliecp/RoadChina/blob/1.16.5/README_EN.md)
-- [繁/正體中文](https://github.com/Heliecp/RoadChina/blob/1.16.5/README_EN.md)
+- [简体中文](https://github.com/Jansuoh/FeeaSim/blob/main/README_ZH-HANS.md)
+- [繁/正體中文](https://github.com/Jansuoh/FeeaSim/blob/main/README_ZH-HANT.md)
 
 ## Why called "FeeaSim"
 
