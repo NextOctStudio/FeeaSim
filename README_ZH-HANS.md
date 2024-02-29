@@ -8,7 +8,7 @@
 
 **Language 语言 语言**
   
-- [简体中文](https://github.com/Jansuoh/FeeaSim/blob/main/README_ZH-HANS.md)
+- [繁/正體中文](https://github.com/Jansuoh/FeeaSim/blob/main/README_ZH-HANT.md)
 - [English](https://github.com/Jansuoh/FeeaSim)
 
 ## 为什么要叫“FeeaSim”
