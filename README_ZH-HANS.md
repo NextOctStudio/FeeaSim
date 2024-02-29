@@ -19,7 +19,7 @@
 
 ## FeeaSim什么时候发布？正式版呢
 
-我们将会在接下来的3-5个月内发布首发预览版（仅供预览试玩（**预览版Preview不是演示版Demo，请区分清楚**），若有游戏相关问题需要咨询，[请点击这里进行提问](https://github.com/Jansuoh/FeeaSim/issues/new) [(阅读标签选择规则)](https://github.com/Jansuoh/FeeaSim/blob/main/RULE_ISSUES.md) 或在我们的其他账号下评论或私信），关于正式版的发布，还需根据接下来的制作进度决定，可能选择Steam、Itch这样的平台。 （可能最快1年内）
+我们将会在接下来的3-5个月内发布首发预览版（仅供预览试玩（**预览版Preview不是演示版Demo，请区分清楚**），若有游戏相关问题需要咨询，[请点击这里进行提问](https://github.com/Jansuoh/FeeaSim/issues/new) [(请先阅读标签选择规则)](https://github.com/Jansuoh/FeeaSim/blob/main/RULE_ISSUES.md) 或在我们的其他账号下评论或私信），关于正式版的发布，还需根据接下来的制作进度决定，可能选择Steam、Itch这样的平台。 （可能最快1年内）
 
 ## FeeaSim的大致发布进程
 

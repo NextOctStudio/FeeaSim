@@ -8,7 +8,7 @@ If you are not using Chinese, you can choose English labels with confidence.
 
 ## 中文
 
-**繁體中文**
+**繁/正體中文**
 
 請注意在您選擇的時候要選帶有中文的標籤。（如果您的問題與中文標籤無相符的，再去選擇英文的）
 
