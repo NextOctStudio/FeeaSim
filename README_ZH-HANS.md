@@ -1,39 +1,45 @@
 # FeeaSim
 
-**FeeaSim** is a Railway Simulator Game making by Jan Suoh, the founder of **NextOct Studio**.
+**FeeaSim**是一款正在制作的铁路模拟器游戏，由NextOct Studio及其创立者Jan Suoh制作。 本游戏的首条线路的背景将设定在中国某个城市的轨道交通线路。（地铁或有轨电车，具体内容请关注我们在其他网站上的账号动态） 
 
-This repository is only used for publishing this game production updates and provide test downloads before Release Version.
+本项目仓库仅用于发布该游戏制作更新动态及在正式版发布前提供的测试下载。
 
 ![](https://i0.hdslb.com/bfs/new_dyn/watermark/793cec0c9dd8844ccf72696171864abb3546637144165029.png)
 
-## Why called "FeeaSim"
+**Language 语言 语言**
+  
+- [简体中文](https://github.com/Jansuoh/FeeaSim/blob/main/README_ZH-HANS.md)
+- [English](https://github.com/Jansuoh/FeeaSim)
 
-"**Feea**" is come from "**via**" in English. Creator think it seems to sound like the train speeding by. And fits the content of the game specially.  
+## 为什么要叫“FeeaSim”
 
-"Sim", abbreviation for Simulator.
+“Feea”来自英语词汇“Via”（其中之一的一个读音），游戏作者认为“Feea”的声音听起来有种铁路列车飞驰而过的声音（特别是高铁），特别有形象，并且该词汇也有“经过”的意思，正好与本游戏的主题相符合。 
 
-## When will FeeaSim be released? And Release Verison?
+“Sim”来自英语单词“Simulator”的缩写，中文意为“模拟器”。
 
-We will release the first Preview in the next 3-5 months (only for test. If there are some **issues**, [press here](http://https://github.com/Jansuoh/FeeaSim/issues) to feedback or message at our account in other website). For the Release Verison, in the fastes t produciton progress, it will be released in 1 Year. Mabe choose to release it on Steam or Itch([Itch.io](http://itch.io)).
+## FeeaSim什么时候发布 正式版呢
 
-## About FeeaSim Release Order
+我们将会在接下来的3-5个月内发布首发预览版（仅供预览试玩（**预览版Preview不是演示版Demo，请区分清楚**），若有游戏问题，[请点击这里进行反馈](http://https://github.com/Jansuoh/FeeaSim/issues)或在我们的其他账号下反馈），关于正式版的发布，还需根据接下来的制作进度决定，可能选择Steam、Itch这样的平台。 （可能最快1年内）
 
-Preview (preview verison. Only for test, have more bugs) →  
-Demo (demo verison. Have **Route Pack** in game, but is rough and some places have defects) →  
-Release (release verison. Can play fine **Route Pack** and choose **Train Pack** in game.)
+## FeeaSim的大致发布进程
 
-## Do FeeaSim need to buy to play?
+Preview (预览版。测试版本，问题较多) →  
+Demo (演示版。带有**内置线路包**，但内置线路包可能比较粗糙，不是很完善) →  
+Release (正式版，可游玩游玩精美的线路，并选择列车进入游戏。)
 
-For the Preview and Demo in the early days can play in free. If it put on Steam in the future, it maybe be fee. 
+## FeeaSim收不收费
+
+初期进行的演示版和预览版不会收费，如果今后上架Steam后才可能会进行收费。（具体内容请关注我们在其他网站上的账号动态）
 
 
 ##
 
+- [微博](https://weibo.com/u/7906018667)
+- [Bilibili](https://space.bilibili.com/3546637144165029)
+- [知乎(Jansuoh)](https://www.zhihu.com/people/e-yes-71)
+- [爱发电（赞助）](https://afdian.net/a/jansuoh)
 - [(X)Twitter](http://twitter.com/NextOctStudio)
 - [YouTube](http://www.youtube.com/@NextOctStudio)
-- [Weibo](https://weibo.com/u/7906018667)
-- [Bilibili](https://space.bilibili.com/3546637144165029)
-- [Zhihu(Jansuoh)](https://www.zhihu.com/people/e-yes-71)
-
 
 ----------
+
