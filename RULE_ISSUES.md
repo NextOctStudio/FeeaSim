@@ -1,6 +1,6 @@
 # Issues Lable Choose Rule | Issues標籤選擇規則
 
-## English(Or expect Chinese)
+## English(Or except Chinese)
 
 If you are not using Chinese, you can choose English labels with confidence.
 
