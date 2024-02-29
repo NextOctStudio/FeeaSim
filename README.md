@@ -1,4 +1,4 @@
-# FeeaSim
+# FeeaSim - Railway Simulator
 
 **FeeaSim** is a Railway Simulator Game making by Jan Suoh, the founder of **NextOct Studio**.
 
