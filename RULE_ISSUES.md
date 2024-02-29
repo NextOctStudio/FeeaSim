@@ -1,4 +1,4 @@
-# Issues Choose Rule | Issues標籤選擇規則
+# Issues Lable Choose Rule | Issues標籤選擇規則
 
 ## English(Or expect Chinese)
 
