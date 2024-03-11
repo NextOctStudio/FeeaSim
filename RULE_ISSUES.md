@@ -5,7 +5,7 @@
 
 If you are not using Chinese, you can choose English labels with confidence.
 
-[**Continue**](https://github.com/Jansuoh/FeeaSim/issues/new)
+[**Continue**](https://github.com/NextOctStudio/FeeaSim/issues/new)
 
 ## 中文
 
@@ -15,7 +15,7 @@ If you are not using Chinese, you can choose English labels with confidence.
 
 這樣做是為了方便我們篩選來自中文玩家的問題，感謝您的理解！
 
-[**繼續**](https://github.com/Jansuoh/FeeaSim/issues/new)
+[**繼續**](https://github.com/NextOctStudio/FeeaSim/issues/new)
 
 **简体中文**
 
@@ -23,4 +23,4 @@ If you are not using Chinese, you can choose English labels with confidence.
 
 这样做是为了方便我们筛选来自中文玩家的问题，感谢您的理解！
 
-[**继续**](https://github.com/Jansuoh/FeeaSim/issues/new)
+[**继续**](https://github.com/NextOctStudio/FeeaSim/issues/new)

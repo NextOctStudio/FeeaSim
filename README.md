@@ -8,8 +8,8 @@ This repository is only used for publishing this game production updates and pro
 
 **Language 语言 語言**
   
-- [简体中文](https://github.com/Jansuoh/FeeaSim/blob/main/README_ZH-HANS.md)
-- [繁/正體中文](https://github.com/Jansuoh/FeeaSim/blob/main/README_ZH-HANT.md)
+- [简体中文](https://github.com/NextOctStudio/FeeaSim/blob/main/README_ZH-HANS.md)
+- [繁/正體中文](https://github.com/NextOctStudio/FeeaSim/blob/main/README_ZH-HANT.md)
 
 ## Why called "FeeaSim"
 
@@ -19,7 +19,7 @@ This repository is only used for publishing this game production updates and pro
 
 ## When will FeeaSim be released? And Release Verison?
 
-We will release the first Preview in the next 3-5 months (only for test. If you want to ask some question about **FeeaSim**, [press here to ask](https://github.com/Jansuoh/FeeaSim/issues/new) [(Read the Lable Choose Rule (All in GitHub website))](https://github.com/Jansuoh/FeeaSim/blob/main/RULE_ISSUES.md) or message at our account in other website. For the Release Verison, in the fastes t produciton progress, it will be released in 1 Year. Mabe choose to release it on Steam or Itch([Itch.io](http://itch.io)).
+We will release the first Preview in the next 3-5 months (only for test. If you want to ask some question about **FeeaSim**, [press here to ask](https://github.com/NextOctStudio/FeeaSim/issues/new) [(Read the Lable Choose Rule (All in GitHub website))](https://github.com/NextOctStudio/FeeaSim/blob/main/RULE_ISSUES.md) or message at our account in other website. For the Release Verison, in the fastes t produciton progress, it will be released in 1 Year. Mabe choose to release it on Steam or Itch([Itch.io](http://itch.io)).
 
 ## About FeeaSim Release Order
 

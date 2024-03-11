@@ -8,8 +8,8 @@
 
 **Language 语言 語言**
   
-- [简体中文](https://github.com/Jansuoh/FeeaSim/blob/main/README_ZH-HANS.md)
-- [English](https://github.com/Jansuoh/FeeaSim)
+- [简体中文](https://github.com/NextOctStudio/FeeaSim/blob/main/README_ZH-HANS.md)
+- [English](https://github.com/NextOctStudio/FeeaSim)
 
 ## 為什麽要叫“FeeaSim”
 
@@ -19,7 +19,7 @@
 
 ## FeeaSim什麽時候發佈？正式版呢
 
-我們將會在接下來的3-5個月內發佈首發預覽版（僅供預覽試玩（**預覽版Preview不是展示版本Demo，請區分清楚**），若有遊戲相關問題需要諮詢，[點擊這裏進行提問](https://github.com/Jansuoh/FeeaSim/issues/new) [(請先閲讀標籤選擇規則(都在GitHub站內))](https://github.com/Jansuoh/FeeaSim/blob/main/RULE_ISSUES.md) 或在我們的其他帳號下評論或私信），關於正式版的發佈，還需根據接下來的製作進度决定，可能選擇Steam、Itch這樣的平臺。 （可能最快1年內）
+我們將會在接下來的3-5個月內發佈首發預覽版（僅供預覽試玩（**預覽版Preview不是展示版本Demo，請區分清楚**），若有遊戲相關問題需要諮詢，[點擊這裏進行提問](https://github.com/NextOctStudio/FeeaSim/issues/new) [(請先閲讀標籤選擇規則(都在GitHub站內))](https://github.com/NextOctStudio/FeeaSim/blob/main/RULE_ISSUES.md) 或在我們的其他帳號下評論或私信），關於正式版的發佈，還需根據接下來的製作進度决定，可能選擇Steam、Itch這樣的平臺。 （可能最快1年內）
 
 ## FeeaSim的大致發佈進程
 
